@@ -18,7 +18,7 @@ Order_ID,Date,Product,Category,Region,Sales,Unit_Price,Revenue
 1017,01 18 25,Mouse,Accessories,South,5,20,100
 1018,01 19 25,Keyboard,Accessories,North,4,35,140
 1019,01 20 25,Laptop,Electronics,East,2,500,1000
-1020,01 21 25,Tablet,Electronics,West,1,300,300
+1020,01 22 25,Tablet,Electronics,West,1,300,300
 # Sidebar filters
 st.sidebar.header("Filters")
 
